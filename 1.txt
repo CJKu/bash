@@ -1,0 +1,2 @@
+22: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP qlen 100
+    inet 10.247.28.117/21 brd 10.247.31.255 scope global wlan0
